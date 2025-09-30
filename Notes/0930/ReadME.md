@@ -11,10 +11,19 @@ Micro mechanical RF switch:
 |   GaAs FETs   |      Good      |   Good    |     Poor      |        Poor       |    Excellent    | Poor |
 | MEMS Switches |  Excellent(0.1~0.6dB)  |   Excellent(-40~-50dB)    |  Excellent  |   Excellent    |     Poor      | Good |
 
-Measurement setup for driving voltage:
-- optical microscope
-- charge coupled device camera,CCD
-- power supply
-- Probe station
+- Measurement setup for driving voltage:
+    - optical microscope
+    - charge coupled device camera,CCD
+    - power supply
+    - Probe station
 
 Micro tunable resonator:
+  - Why micromechanical resonator?
+    - High performance transducer
+    - Cost low
+    - Easy integrate with light,electricity,heat and magnet on a chip
+    - Good stability at temperature and ageing
+    
+  - Application:
+    - Wireless communication system
+   
