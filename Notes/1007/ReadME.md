@@ -86,4 +86,25 @@ xychart-beta
 
 ## 老舊的功率量測技術:良率的隱藏殺手
 - P<sub>forword</sub>  =(V<sub>F</sub> )<sup>2</sup>/ 50 $\Omega$
-- P<sub>reflected</sub>=(V<sub>R</sub>)<sup>2</sup> / 50 $\Omega$ 
+- P<sub>reflected</sub>=(V<sub>R</sub>)<sup>2</sup> / 50 $\Omega$ <br>
+ **VSWR>4就失真**
+
+## RF Pulsing: 提升先進製程良率的關鍵優勢
+- Improved CD control:Ensures dimensions of etched features are within tight tolerances
+- Enhanced profile uniformity:Helps create consistent etch profiles across the entire wafer
+- Icerased selectivity:Enables the etching of specific materials while minimizing the etching of others
+
+## 設計契機: 13000 案例驗證+高效模組新方案
+SiC/GaN+超高開關頻率 150kHz $\rightarrow$ 500kHz $\rightarrow$ 輕量化,更高效能,高功率密度<br>
+第一代:50VDC/5kW $\eta$~97%模組
+- 降溫 60<sup>。</sup>C
+- 減重 18 公斤
+- 效率提升 20%
+- 諧波改善>90%
+<br>
+
+第二代:0-210VDC/5kW $\eta$~96%模組
+- 降溫 60<sup>。</sup>C
+- 減重 3 公斤
+- 效率提升 20%-50%
+- 諧波改善>90%
