@@ -59,3 +59,9 @@ In the KNN classification, there steps are involved for a test data point as fol
 ## Proposed Strategy: Analysis
 * Property 1. Given a point g and a polygon set PA with size m, if point g is inside one of set PA, Algorithm PtPos positions point g in O(m x nmax) time, where nmax is this polygon's largest edge number of this polygon set.
 * Property 2. Given a point g and a training dataset T with size ny, algorithm AdaptKNN classifies point g in O(n) time.
+
+## Experiment: Class distributions
+The class distributions of Type-1 ans Type-2.Type-1 has 12 classes and Type-2 has 256 classes.
+<p align="center">
+  <img width="801" height="473" alt="image" src="https://github.com/user-attachments/assets/97eb0889-f5a6-4aa1-b9c4-8b3cb8772911" />
+</p>
