@@ -22,17 +22,25 @@ In the KNN classification, there steps are involved for a test data point as fol
   * Points in intersected cells: do evaluation
 ## System Model
 ### Positioning
+
+<p align="center">
 <img width="1321" height="397" alt="image" src="https://github.com/user-attachments/assets/781e5b80-ebd0-44c5-883a-41376ee27018" />
+</p>
 
 1. The data sent from the mobile devices of targets will be stored as unclassified geographic points.
 2. The server will individually take out a point from the unclassified points and position which polygon this point is inside.
 3. The server will store these geographical points with their classes.
+
 ### Classification
+
+<p align="center">
 <img width="760" height="305" alt="image" src="https://github.com/user-attachments/assets/6445ffbb-1046-45bf-b8b3-6727937cc05c" />
+</p>
 
 1. The real-time data sent from targets' mobile devices arrive to the server.
 2. The server extracts candidate points from the storage of classified targets.
 3. The server will classify the targets into their located areas according to the candidate points.
+   
 ## Proposed Strategy  
 * For KNN classification will make statistics on the class g'<sub>pc</sub> of g' using I(－), find the class i with the largest number, and then assign it to g<sub>cc</sub>.
 <p align="center">
