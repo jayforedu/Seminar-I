@@ -65,3 +65,17 @@ The class distributions of Type-1 ans Type-2.Type-1 has 12 classes and Type-2 ha
 <p align="center">
   <img width="801" height="473" alt="image" src="https://github.com/user-attachments/assets/97eb0889-f5a6-4aa1-b9c4-8b3cb8772911" />
 </p>
+
+## Experiment: Classification Time
+<p align="center">
+  <img width="1152" height="535" alt="image" src="https://github.com/user-attachments/assets/fd86e8f9-446d-4767-891a-fdd945509c1e" />
+</p>
+
+## Experiment: Classification Accuracy
+<p align="center">
+  <img width="1152" height="535" alt="image" src="https://github.com/user-attachments/assets/43c90719-1cee-47dc-8615-c4e1a53fdd71" />
+</p>
+
+## Conclusions
+* In this paper, we have planned a strategy, including positioning and classification phases, which can be used when epidemic management or other applications need to track the location of some targets or people.
+* We hope this research can help epidemic management understand the spread of these pathogens and enable us to make predictions and preparations earlier, significantly as the infection numbers rapidly increase.
