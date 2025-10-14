@@ -2,5 +2,6 @@
 ## 筆記:
 [第一次筆記](https://github.com/jayforedu/Seminar-I/tree/main/Notes/0930/ReadME.md)<br>
 [第二次筆記](https://github.com/jayforedu/Seminar-I/tree/main/Notes/1007/ReadME.md)<br>
+[第三次筆記](https://github.com/jayforedu/Seminar-I/blob/main/Notes/1014/ReadME.md)<br>
 ## 書面報告:
 [第一次書面報告](https://github.com/jayforedu/Seminar-I/blob/main/Reports/0923/ReadME.md)<br>
