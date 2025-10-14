@@ -34,3 +34,21 @@ In the KNN classification, there steps are involved for a test data point as fol
 2. The server extracts candidate points from the storage of classified targets.
 3. The server will classify the targets into their located areas according to the candidate points.
 ## Proposed Strategy  
+* For KNN classification will make statistics on the class g'<sub>pc</sub> of g' using I(－), find the class i with the largest number, and then assign it to g<sub>cc</sub>.
+<p align="center">
+  <img src="https://latex.codecogs.com/png.latex?\dpi{200}\bg_white\fg_black%20g_{cc}=\underset{i}{\arg}(\max\sum_{g'\in%20NB}I(g'_{pc}=i)))" alt="formula"/>
+</p>
+
+* We also contain the weighting KNN
+* The Euclidean distance of two points ga and gb is as follow, where (gax,gay) (gbx,gby) is the coordinate value of point gb.
+<p align="center">
+  <img src="https://latex.codecogs.com/png.latex?\dpi{200}\bg_white\fg_black%20g_{cc}=\underset{i}{\arg}(\max\sum_{g'\in%20NB}I(g'_{pc}=i)))" alt="formula"/>
+</p>
+
+* The weighted KNN is
+<p align="center">
+ <p align="center">
+  <img src="https://latex.codecogs.com/png.latex?\dpi{200}\bg_white\fg_black%20g_{cc}=\underset{i}{\arg}(\max\sum_{g'%5Cin%20NB}I(g'_{pc}=i%5Ctimes%20d(g,g')^{-1}))" alt="formula"/>
+</p>
+
+</p>
