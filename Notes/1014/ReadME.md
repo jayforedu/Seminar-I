@@ -48,5 +48,14 @@ In the KNN classification, there steps are involved for a test data point as fol
 * The weighted KNN is
 <p align="center">
   <img src="https://latex.codecogs.com/png.latex?\dpi{200}\bg_white\fg_black%20g_{cc}=\underset{i}{\arg}(\max\sum_{g'%5Cin%20NB}I(g'_{pc}=i%5Ctimes%20d(g,g')^{-1}))" alt="formula"/>
-
 </p>
+
+## Proposed Strategy:KNN Classification 
+* Algorithm 4 employs the technology of the weighting KNN classification for classifying points into areas.
+  * In addition, Step 1 of this algorithm calculates the candidates of k neighbors based on a numerical value r. When necessary, the value of r will be adaptively adjusted until the number of candidates is greater than or equal to k.
+  * So, the candidates of k neighbors in Steps 2, 3, and 4 are k or slightly more than k data points, not the total training dataset.
+  * In this way, we improve the classification time
+
+## Proposed Strategy: Analysis
+* Property 1. Given a point g and a polygon set PA with size m, if point g is inside one of set PA, Algorithm PtPos positions point g in O(m x nmax) time, where nmax is this polygon's largest edge number of this polygon set.
+* Property 2. Given a point g and a training dataset T with size ny, algorithm AdaptKNN classifies point g in O(n) time.
