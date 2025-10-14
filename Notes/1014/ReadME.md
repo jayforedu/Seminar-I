@@ -48,7 +48,7 @@ In the KNN classification, there steps are involved for a test data point as fol
 </p>
 
 * We also contain the weighting KNN
-* The Euclidean distance of two points ga and gb is as follow, where (gax,gay) (gbx,gby) is the coordinate value of point gb.
+* The Euclidean distance of two points ga and gb is as follow, where ( ga<sub>x</sub>, ga<sub>y</sub> )、( gb<sub>x</sub>, gb<sub>y</sub> ) is the coordinate value of point gb.
 <p align="center">
   <img src="https://latex.codecogs.com/png.latex?\dpi{200}\bg_white\fg_black%20d\left(ga,gb\right)=\sqrt{\left(ga_{x}-gb_{x}\right)^2-\left(ga_{y}-gb_{y}\right)^2}" alt="formula"/>
 </p>
