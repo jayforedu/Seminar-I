@@ -14,4 +14,9 @@
 # 關鍵字 :
 Generative AI (GAI)、Generative Adversarial Networks (GAN)、AI Ethics
 # 參考文獻 : 
+K. S and M. Durgadevi, "Generative Adversarial Network (GAN): a general review on different variants of GAN and applications," 2021 6th International Conference on Communication and Electronics Systems (ICCES), Coimbatre, India, 2021, pp. 1-8, doi: 10.1109/ICCES51350.2021.9489160.
+
+K. S. Kaswan, J. S. Dhatterwal, K. Malik and A. Baliyan, "Generative AI: A Review on Models and Applications," 2023 International Conference on Communication, Security and Artificial Intelligence (ICCSAI), Greater Noida, India, 2023, pp. 699-704, doi: 10.1109/ICCSAI59793.2023.10421601.
+
+F. R. Falvo and M. Cannataro, "Ethics of Artificial Intelligence: challenges, opportunities and future prospects," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024, pp. 5860-5867, doi: 10.1109/BIBM62325.2024.10822112.
 
